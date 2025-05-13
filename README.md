@@ -1,53 +1,47 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
+<h2 align="center">Personal Portfolio <br/> Sunnatulloxon</h2>
 
 <br/>
 
 ## Fork 
-<p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
-  <br/> 
-  The design for this project is inspired by <a href="https://github.com/soumyajit4419/Portfolio">Saumjyajit's portfolio.</a></p>
+<p>Feel free to fork this repo to modify and make changes of your own. If you use or get inspired by this project, please give me credit by linking it back to this repo. Thank you!</p>
 
 ## About 
-<p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
-<p>These technologies are used to build this website:</p>
+<p>This project is my personal portfolio website where I showcase my projects, skills, and experience.</p>
+<p>The website is still in progress and will be updated as I develop more projects and gain new skills.</p>
+
+<p>Technologies used in this project:</p>
 <ul>
   <li>React.js</li>
+  <li>Tailwind CSS</li>
   <li>Git</li>
-  <li>npm packages</li>
   <li>Vercel</li>
 </ul>
 
-<p>Some of the features of this website are:</p>
+<p>Main features of the website:</p>
 <ul>
-  <li>Multi-page layout</li>
-  <li>Fully responsive</li>
-  <li>Preloader</li>
-  <li>Refresh on clicking logo</li>
+  <li>Responsive design</li>
+  <li>Simple and clean layout</li>
+  <li>Projects showcase (coming soon)</li>
 </ul>
 
-<p>npm packages used:</p>
+<p>Some of the npm packages used:</p>
 <ul>
-  <li><a target="_blank" href="https://www.npmjs.com/package/lottie-react">lottie-react</a>: For the animations used in the website.</li>
-  <li><a href="https://www.npmjs.com/package/react-spinners">react-spinners</a>: For the preloader animation.</li>
-  <li><a href="https://www.npmjs.com/package/react-icons">react-icons</a>: For all the icons.</li>
-  <li><a href="https://www.npmjs.com/package/typewriter-effect">typewriter-effect</a>: The typing effect on the home page.</li>
-  <li><a href="https://www.npmjs.com/package/react-pdf">react-pdf</a>: To preview the resume pdf</li>
-  <li><a href="https://www.npmjs.com/package/react-parallax-tilt">react-parallax-tilt</a>: To apply tilt hover effect on react components like image and animation.</li>
+  <li><a target="_blank" href="https://www.npmjs.com/package/react-icons">react-icons</a>: For icons used in the website.</li>
+  <li><a href="https://www.npmjs.com/package/react-spinners">react-spinners</a>: For loading animations.</li>
+  <li><a href="https://www.npmjs.com/package/typewriter-effect">typewriter-effect</a>: For typing effect on the homepage.</li>
 </ul>
 
-
-## Getting started 🛠️
-<p>You need to have git installed on your system to modify this repo.</p>
+## Getting Started 🛠️
+<p>You need to have Git installed on your system to work with this repo.</p>
 <ol>
-  <li>Fork this repo from the fork option on top of my GitHub repo.</li>
-  <li>After completing the fork, move to the copied repo in your account and copy the HTTPS link from the code option.</li>
-  <li>Now in the terminal of your system(in vs code or any third party terminal) cd over to the location where you want to store this project & write, git clone copied link</li>
-  <li>This would create a copy in your local system and link it to the forked repo.</li>
-  <li>Now open this project in your desirable IDE and in the terminal write npm i, this would install all the necessary npm packages.</li>
-  <li>You can write npm start in the terminal to open the project in development mode. Open http://localhost:3000 to view in the browser. This page should reload when you make any changes.</li>
+  <li>Fork this repo by clicking the fork button on top.</li>
+  <li>Clone the forked repo to your local machine using <code>git clone &lt;repo-url&gt;</code>.</li>
+  <li>Navigate to the project directory in your terminal.</li>
+  <li>Run <code>npm install</code> to install dependencies.</li>
+  <li>Run <code>npm start</code> to start the development server. Visit http://localhost:3000 in your browser.</li>
 </ol>
-<p>You can browse the project and make changes according to your will.</p>
 
 ## Support
-<p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
-<p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+<p>If you like my work, please consider giving a ⭐ to this repository.</p>
+<p>Feel free to report any bugs 🪲 or suggest improvements in the Issues tab.</p>
+
